@@ -1,0 +1,47 @@
+@import 'tailwindcss';
+@import '@nuxt/ui';
+
+@theme {
+  --font-sans: 'Libre Franklin', sans-serif;
+  --font-serif: 'Kirang Haerang', serif;
+
+  --ui-text: #000;
+
+  --color-primary: oklch(77.27% 0.17674 341.12);
+  --color-primary-50: oklch(100% 0 none);
+  --color-primary-100: oklch(100% 0 none);
+  --color-primary-200: oklch(99.391% 0.00411 337.35);
+  --color-primary-300: oklch(91.49% 0.06077 338.2);
+  --color-primary-400: oklch(83.815% 0.11944 339.56);
+  --color-primary-500: oklch(77.27% 0.17674 341.12);
+  --color-primary-600: oklch(70.227% 0.24301 343.76);
+  --color-primary-700: oklch(66.27% 0.27283 347.5);
+  --color-primary-800: oklch(58.174% 0.24326 348.59);
+  --color-primary-900: oklch(46.534% 0.19496 348.09);
+  --color-primary-950: oklch(40.454% 0.16948 347.71);
+
+  --color-secondary: oklch(87.816% 0.18125 97.483);
+  --color-secondary-50: oklch(96.026% 0.08554 99.923);
+  --color-secondary-100: oklch(95.064% 0.10632 100.05);
+  --color-secondary-200: oklch(93.502% 0.14257 100.5);
+  --color-secondary-300: oklch(91.934% 0.16777 99.857);
+  --color-secondary-400: oklch(90.73% 0.18247 99.059);
+  --color-secondary-500: oklch(87.816% 0.18125 97.483);
+  --color-secondary-600: oklch(72.604% 0.15001 97.878);
+  --color-secondary-700: oklch(56.317% 0.11634 97.828);
+  --color-secondary-800: oklch(38.977% 0.08075 98.883);
+  --color-secondary-900: oklch(19.025% 0.03957 100.14);
+  --color-secondary-950: oklch(0% 0 none);
+
+  --color-blue: #6cdff6;
+  --color-blue-500: #6cdff6;
+}
+
+html {
+  font-size: 30px;
+}
+
+body {
+  color: black;
+  background-color: var(--color-blue);
+}
