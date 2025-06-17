@@ -15,9 +15,9 @@
         <div class="text-center">
           <h1 class="text-2xl font-bold">Gigs:</h1>
           <p>
-            <span class="font-bold">26 May @12:30 -</span>
-            <a href="https://www.falmouthfoodfestival.com/" target="_blank" class="underline">
-              Falmouth Food Festival
+            <span class="font-bold">28 June - 3pm -</span>
+            <a href="https://www.facebook.com/starinnvoguecharityaleandmusicfestival/" target="_blank" class="underline">
+              The Star Inn Ale and Music Festival
             </a>
           </p>
         </div>
