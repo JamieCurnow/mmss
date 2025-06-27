@@ -7,7 +7,7 @@
     </div>
 
     <div class="text-center text-sm font-bold">
-      <p>Cornwall's second and only <span class="text-xl font-serif">alternative</span> male voice choir</p>
+      <p>Cornwall's second alternative male voice choir</p>
     </div>
 
     <div class="max-w-3xl mx-auto mt-6">
