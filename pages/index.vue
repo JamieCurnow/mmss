@@ -1,13 +1,17 @@
 <template>
   <div class="py-10 flex flex-col gap-2">
     <div class="flex items-center justify-center">
-      <div class="pl-8">
-        <img src="/logo.png" alt="Logo" class="w-auto h-32 mx-auto" />
+      <div class="">
+        <img src="/logo.png" alt="Logo" class="w-auto h-32 mx-auto max-w-full" />
       </div>
     </div>
 
     <div class="text-center text-sm font-bold">
       <p>Cornwall's second alternative male voice choir</p>
+    </div>
+
+        <div class="max-w-3xl mx-auto mt-6">
+      <p><a href="https://mailchi.mp/02ec07f90618/online-mailing-list-form" title="Many Men Soundsystem Mailing list">Join the mailing list for gig updates and the like.</a></p>
     </div>
 
     <div class="max-w-3xl mx-auto mt-6">
@@ -23,6 +27,8 @@
         </div>
       </UCard>
     </div>
+
+
 
     <div class="flex items-center justify-center gap-4 mt-6">
       <UButton href="https://www.instagram.com/manymensoundsystem" target="_blank" icon="i-mdi-instagram" />
@@ -44,7 +50,7 @@
       <img src="/men.jpg" alt="The men" class="h-auto w-full object-cover" />
     </div>
 
-    <div class="text-center">Made with ❤️ by your men</div>
+    <!-- <div class="text-center">Made with ❤️ by your men</div> -->
     <!-- <div class="p-6">
       <UCard class="bg-secondary-100"> Hello </UCard>
     </div> -->
