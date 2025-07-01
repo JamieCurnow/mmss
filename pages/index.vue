@@ -11,17 +11,17 @@
     </div>
 
         <div class="max-w-3xl mx-auto mt-6">
-      <p><a href="https://mailchi.mp/02ec07f90618/online-mailing-list-form" title="Many Men Soundsystem Mailing list">Join the mailing list for gig updates and the like.</a></p>
+      <p><a href="https://mailchi.mp/02ec07f90618/online-mailing-list-form" title="Many Men Soundsystem Mailing list" class="underline">Join the mailing list for gig updates and the like.</a></p>
     </div>
 
     <div class="max-w-3xl mx-auto mt-6">
       <UCard class="mx-2">
         <div class="text-center">
-          <h1 class="text-2xl font-bold">Gigs:</h1>
+          <h1 class="text-2xl">Gigs:</h1>
           <p>
-            <span class="font-bold">28 June - 3pm -</span>
-            <a href="https://www.facebook.com/starinnvoguecharityaleandmusicfestival/" target="_blank" class="underline">
-              The Star Inn Ale and Music Festival
+            <span class="font-bold">26th July - set time tbc</span>
+            <a href="https://verdantbrewing.co/blogs/taproom-events/little-summer-beer-bash-2025" target="_blank" class="underline">
+              Verdant Little Summer Beer Bash 2025 at Verdant Taproom, Penryn
             </a>
           </p>
         </div>
