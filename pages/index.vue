@@ -1,5 +1,9 @@
 <template>
-  <div class="py-10 flex flex-col gap-2">
+ 
+  <div class="pb-10 flex flex-col gap-2">
+  <div class=" overflow-hidden mx-auto mb-4 border-0 border-black">
+      <img src="/men.jpg" alt="The men" class="h-auto w-full object-cover" />
+  </div>
     <div class="flex items-center justify-center">
       <div class="">
         <img src="/logo.png" alt="Logo" class="w-auto h-32 mx-auto max-w-full" />
@@ -44,11 +48,7 @@
       <img src="/men.jpg" alt="The men" class="h-auto w-full object-cover" />
     </div> -->
 
-    <div
-      class="rounded-sm overflow-hidden w-[300px] sm:w-[400px] md:w-[500px] lg:w-[500px] mx-auto my-4 border-0 border-black"
-    >
-      <img src="/men.jpg" alt="The men" class="h-auto w-full object-cover" />
-    </div>
+
 
     <!-- <div class="text-center">Made with ❤️ by your men</div> -->
     <!-- <div class="p-6">
