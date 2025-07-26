@@ -23,7 +23,7 @@
         <div class="text-center">
           <h1 class="text-2xl">Gigs:</h1>
           <p>
-            <span class="font-bold">26th July - set time tbc</span>
+            <span class="font-bold">26th July - set times 12pm + 7pm</span>
             <a href="https://verdantbrewing.co/blogs/taproom-events/little-summer-beer-bash-2025" target="_blank" class="underline">
               Verdant Little Summer Beer Bash 2025 at Verdant Taproom, Penryn
             </a>
